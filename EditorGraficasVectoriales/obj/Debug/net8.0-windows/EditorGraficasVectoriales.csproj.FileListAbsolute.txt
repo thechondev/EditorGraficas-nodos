@@ -1,0 +1,17 @@
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\bin\Debug\net8.0-windows\EditorGraficasVectoriales.exe
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\bin\Debug\net8.0-windows\EditorGraficasVectoriales.deps.json
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\bin\Debug\net8.0-windows\EditorGraficasVectoriales.runtimeconfig.json
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\bin\Debug\net8.0-windows\EditorGraficasVectoriales.dll
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\bin\Debug\net8.0-windows\EditorGraficasVectoriales.pdb
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\obj\Debug\net8.0-windows\EditorGraficasVectoriales.FrmEditor.resources
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\obj\Debug\net8.0-windows\EditorGraficasVectoriales.Properties.Resources.resources
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\obj\Debug\net8.0-windows\EditorGraficasVectoriales.csproj.GenerateResource.cache
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\obj\Debug\net8.0-windows\EditorGraficasVectoriales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\obj\Debug\net8.0-windows\EditorGraficasVectoriales.AssemblyInfoInputs.cache
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\obj\Debug\net8.0-windows\EditorGraficasVectoriales.AssemblyInfo.cs
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\obj\Debug\net8.0-windows\EditorGraficasVectoriales.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\obj\Debug\net8.0-windows\EditorGraficasVectoriales.dll
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\obj\Debug\net8.0-windows\refint\EditorGraficasVectoriales.dll
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\obj\Debug\net8.0-windows\EditorGraficasVectoriales.pdb
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\obj\Debug\net8.0-windows\EditorGraficasVectoriales.genruntimeconfig.cache
+C:\Users\Carlos Andres L\Downloads\IUPB_ED_EditorGraficas-main\EditorGraficasVectoriales\obj\Debug\net8.0-windows\ref\EditorGraficasVectoriales.dll
